@@ -16,6 +16,8 @@ The goal of this analysis is to explore **sales trends** and gain business insig
 4️⃣ **Which products drive the most revenue for the business?**  
 ## Insights from the Analysis  
 
+### 📊 Dashboard  
+🖼️ **Visualization:** [Sales Dashboard](<https://github.com/Wanjama-Mark/Coffee-Shop-Sales/blob/main/Screenshot2.png>)  
 ### 📈 Sales Trend  
 Sales showed a **gradual upward trend**, starting with a steady increase from January. There was a **slight dip in February**, but sales **climbed consistently until June**.  
 
