@@ -28,7 +28,10 @@ Sales showed a **gradual upward trend**, starting with a steady increase from Ja
 
 ### 💰 Top Revenue-Generating Products  
 - **#1:** Barista Espresso 💵  
-- **#2:** Brewed Chai 🏆  
+- **#2:** Brewed Chai 🏆
+
+  ### 📊 Dataset Used  
+📂 **Dataset:** [Coffee Shop Sales](<https://github.com/Wanjama-Mark/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales.xlsx>)
 
 These insights help in **optimizing product focus and sales strategies** for increased revenue. 🚀  
 
